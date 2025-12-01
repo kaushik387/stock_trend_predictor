@@ -49,7 +49,7 @@ Label	Meaning
 
  Machine Learning Model:
 
-**✔ XGBoost Classifier
+**XGBoost Classifier
 Handles nonlinear patterns
 Robust to noise
 Shows highest accuracy
