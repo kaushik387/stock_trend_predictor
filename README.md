@@ -39,14 +39,15 @@ Stochastic_K
 Volatility metrics (e.g., STD of price)
 Price Change (%)**
 
-🎯 Trend Labeling (Target Variable)
+Trend Labeling (Target Variable)
+
 The target variable Trend is categorized as:
 Label	Meaning
 **0	Down
 1	Neutral
 2	Up**
 
-🤖 Machine Learning Model:
+ Machine Learning Model:
 
 **✔ XGBoost Classifier
 Handles nonlinear patterns
@@ -54,10 +55,9 @@ Robust to noise
 Shows highest accuracy
 Feature importance ranking used to select best indicators**
 
-🧪 Model Evaluation
-
-Metrics used:
-
+ Model Evaluation
+ Metrics used:
+ 
 **Accuracy
 Precision
 Recall**
@@ -65,8 +65,8 @@ Recall**
 Classification Report
 Confusion Matrix**
 
-🎯 Final Output
-The system predicts:
+ Final Output
+ The system predicts:
 **Trend: Up
 Trend: Down
 Trend: Neutral**
