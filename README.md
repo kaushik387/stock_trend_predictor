@@ -7,6 +7,7 @@ The goal is to build a classification system that learns from past OHLCV (Open, 
 This project includes:
 
 **Data preprocessing
+
 Technical indicator generation
 Feature engineering
 Categorical trend labeling
@@ -26,6 +27,7 @@ Close
 Volume**
 
 Technical Indicators Used
+
 **Simple Moving Average
 Average True Range
 Stochastic Oscillator**
@@ -43,6 +45,7 @@ Trend Labeling (Target Variable)
 
 The target variable Trend is categorized as:
 Label	Meaning
+
 **0	Down
 1	Neutral
 2	Up**
